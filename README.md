@@ -1,4 +1,5 @@
 IF-ELSE = Com o if/else seria utilizado mais estruturas de codigo, teria que definir a variavel, usar varios else if.
+
 SWITCH-CASE = Com o switch case é mais simples, nao é necessario definir uma variavel, voce faz os codigos direto e de um modo rapido.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Comentarios:
