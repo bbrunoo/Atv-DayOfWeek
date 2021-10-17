@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.AssemblyInfo.cs
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\bin\Debug\net5.0\ifelsedays.exe
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\bin\Debug\net5.0\ifelsedays.deps.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\bin\Debug\net5.0\ifelsedays.runtimeconfig.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\bin\Debug\net5.0\ifelsedays.runtimeconfig.dev.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\bin\Debug\net5.0\ifelsedays.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\bin\Debug\net5.0\ref\ifelsedays.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\bin\Debug\net5.0\ifelsedays.pdb
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ref\ifelsedays.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.pdb
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\ifelsedays\obj\Debug\net5.0\ifelsedays.genruntimeconfig.cache

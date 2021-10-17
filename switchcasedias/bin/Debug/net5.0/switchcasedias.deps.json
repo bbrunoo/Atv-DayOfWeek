@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "switchcasedias/1.0.0": {
+        "runtime": {
+          "switchcasedias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "switchcasedias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

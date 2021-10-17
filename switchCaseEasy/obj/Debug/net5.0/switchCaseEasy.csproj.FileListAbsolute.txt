@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\bin\Debug\net5.0\switchCaseEasy.exe
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\bin\Debug\net5.0\switchCaseEasy.deps.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\bin\Debug\net5.0\switchCaseEasy.runtimeconfig.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\bin\Debug\net5.0\switchCaseEasy.runtimeconfig.dev.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\bin\Debug\net5.0\switchCaseEasy.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\bin\Debug\net5.0\ref\switchCaseEasy.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\bin\Debug\net5.0\switchCaseEasy.pdb
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.AssemblyInfo.cs
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\ref\switchCaseEasy.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.pdb
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchCaseEasy\obj\Debug\net5.0\switchCaseEasy.genruntimeconfig.cache

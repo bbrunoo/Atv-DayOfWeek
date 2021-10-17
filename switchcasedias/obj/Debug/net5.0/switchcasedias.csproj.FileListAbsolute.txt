@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.AssemblyInfo.cs
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\bin\Debug\net5.0\switchcasedias.exe
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\bin\Debug\net5.0\switchcasedias.deps.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\bin\Debug\net5.0\switchcasedias.runtimeconfig.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\bin\Debug\net5.0\switchcasedias.runtimeconfig.dev.json
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\bin\Debug\net5.0\switchcasedias.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\bin\Debug\net5.0\ref\switchcasedias.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\bin\Debug\net5.0\switchcasedias.pdb
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\ref\switchcasedias.dll
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.pdb
+D:\projetos\ams\1ano\SwitchCaseDayOfWeeks\switchcasedias\obj\Debug\net5.0\switchcasedias.genruntimeconfig.cache
