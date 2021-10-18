@@ -6,6 +6,6 @@ SWITCH-CASE = Com o switch case é mais simples, nao é necessario definir uma v
 
 Comentarios:
 
-Eu nao consegui fazer com o if/else, para nao ficar atividade em branco eu fiz um codigo que a pessoa digita um numero de 0 a 6 e o numero digitado mostra o dia;
+Eu nao consegui fazer com o if/else, para nao ficar atividade em branco eu fiz um codigo que a pessoa digita um numero de 1 a 7 e o numero digitado mostra o dia;
 
-Eu tambem fiz um terceiro codigo que é mais simples, que so tem uma variavel com o resultado DateTime.Now.DayOfWeek, ai logo em seguida um WriteLine("variavel") para mostrar o dia de hoje.
+Eu tambem fiz um terceiro codigo que é mais simples, que tem uma variavel DateTime.Now.DayOfWeek, logo em seguida um WriteLine("variavel") para mostrar o dia de hoje.
