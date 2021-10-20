@@ -1,11 +1,3 @@
-IF-ELSE = Com o if/else seria utilizado estruturas com mais codigos, teria que definir a variavel, usar varios else if.
+IF-ELSE = Com o if/else é utilizado estruturas com mais codigos com exemplo dos else if, que foi utilizado um para cada dia.
 
-SWITCH-CASE = Com o switch case é mais simples, nao é necessario definir uma variavel, voce faz os codigos direto e de um modo rapido.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Comentarios:
-
-Eu nao consegui fazer com o if/else, para nao ficar atividade em branco eu fiz um codigo que a pessoa digita um numero de 1 a 7 e o numero digitado mostra o dia;
-
-Eu tambem fiz um terceiro codigo que é mais simples, que tem uma variavel DateTime.Now.DayOfWeek, logo em seguida um WriteLine("variavel") para mostrar o dia de hoje.
+SWITCH-CASE = Com o switch case é mais simples, no exemplo do professor foi utilizado var que simplifica o codigo, no switch case, as estruturas do codigo são mais simples e diretas. voce faz os codigos direto e de um modo rapido.
